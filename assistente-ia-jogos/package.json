@@ -1,0 +1,13 @@
+{
+  "name": "assistente-ia-jogos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "server": "lite-server --baseDir=.",
+    "start": "index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Igor Medeiros",
+  "license": "ISC"
+}
